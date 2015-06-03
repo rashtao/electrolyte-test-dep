@@ -1,0 +1,9 @@
+{
+  "name": "electrolyte-test-dep",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./lib/app",
+  "dependencies": {
+    "electrolyte": "file:../electrolyte"
+  }
+}
